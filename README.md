@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Student In BMSCE Bengaluru,<br>Learning Programmes.<br>passionate in software development.
+I'm Student In BMSCE Bengaluru,<br> #Learning .<br>Passionate In Software Development.
 
 
 ## 🌐 Socials:
