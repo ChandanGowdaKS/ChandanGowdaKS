@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I'm Student In BMSCE Bengaluru,<br> #Learning .<br>Passionate In Software Development.
+I'm Student In BMSCE Bengaluru, <br>Passionate In Software Development,<br>I’m currently learning Golang and System Design
 
 
 ## 🌐 Socials:
