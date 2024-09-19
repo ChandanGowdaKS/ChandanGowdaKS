@@ -1,3 +1,9 @@
+##### Hi👋, I'm Chandan Gowda K S
+-------------------------------------------------------------------------------------------------------------------------
+## Contact Me: chanduchess122@gmail.com
+
+
+
 # 💫 About Me:
 I'm Student In BMSCE Bengaluru,<br> #Learning .<br>Passionate In Software Development.
 
