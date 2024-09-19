@@ -5,7 +5,10 @@
 
 
 # 💫 About Me:
-* Passionate In Software Development,<br>* I'm Student In BMSCE Bengaluru, <br> * I’m currently learning Python Language, <br>* 💻 All of my projects are available on https://github.com/ChandanGowdaKS
+* Passionate In Software Development,
+* I'm Student In BMSCE Bengaluru,
+* I’m currently learning Python Language,
+* 💻 All of my projects are available on https://github.com/ChandanGowdaKS
 
 
 ## 🌐 Socials:
