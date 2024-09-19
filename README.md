@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I'm Student In BMSCE Bengaluru, <br>Passionate In Software Development,<br>I’m currently learning Golang and System Design
+* Passionate In Software Development,<br>* I'm Student In BMSCE Bengaluru, <br> * I’m currently learning Python Language, <br>* 💻 All of my projects are available on https://github.com/ChandanGowdaKS
 
 
 ## 🌐 Socials:
