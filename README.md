@@ -7,7 +7,7 @@
 # 💫 About Me:
 * Passionate In Software Development,
 * I'm Student In BMSCE Bengaluru,
-* I’m currently learning Python Language & C language
+* I’m currently learning Python Language, C language, DSA in C , OOPS in C++.
 * 💻 All of my projects are available on https://github.com/ChandanGowdaKS
 
 
