@@ -9,7 +9,7 @@
 * I'm Student In BMSCE Bengaluru,
 * I’m currently learning Python Language, Java language, Full Stack.
 * 💻 All of my projects are available on https://github.com/ChandanGowdaKS
-* My Portfolio https://chandanks-portfolio.netlify.app/
+* My Portfolio (https://chandan-gowda-portfolio.netlify.app/)
 
 
 ## 🌐 Socials:
