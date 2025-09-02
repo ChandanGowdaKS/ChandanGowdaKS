@@ -1,13 +1,13 @@
 ##                                             Hi👋, I'm Chandan Gowda K S
 -------------------------------------------------------------------------------------------------------------------------
-## Contact Me: chanduchess122@gmail.com
+## Contact Me: chandangowdaks122@gmail.com
 
 
 
 # 💫 About Me:
-* Passionate In Software Development,
-* I'm Student In BMSCE Bengaluru,
-* I’m currently learning Python Language, Java language, Full Stack.
+* Passionate about Software Development,
+* I'm a Student at BMSCE Bengaluru,
+* I’m currently learning Python Language, Java language, and Full Stack.
 * 💻 All of my projects are available on https://github.com/ChandanGowdaKS
 * My Portfolio (https://chandan-gowda-portfolio.netlify.app/)
 
