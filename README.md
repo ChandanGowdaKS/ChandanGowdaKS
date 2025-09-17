@@ -1,6 +1,6 @@
 ##                                             Hi👋, I'm Chandan Gowda K S
 -------------------------------------------------------------------------------------------------------------------------
-## Contact Me: chandangowdaks122@gmail.com
+## Contact Me: chanduchess122@gmail.com
 
 
 
