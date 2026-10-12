@@ -9,7 +9,7 @@
 * I'm a Student at BMSCE Bengaluru,
 * I’m currently learning Python Language, Java language, and Full Stack.
 * 💻 All of my projects are available on https://github.com/ChandanGowdaKS
-* My Portfolio ((https://protfolio-omega-opal.vercel.app/))
+* My Portfolio (((https://chandangowdaksprotfolio.vercel.app/)))
 
 
 ## 🌐 Socials:
